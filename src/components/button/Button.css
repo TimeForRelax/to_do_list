@@ -1,0 +1,12 @@
+.button-add {
+  padding: 0;
+  border: none;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+
+  background-color: black;
+  color: white;
+  height: 40px;
+  padding: 10px 20px;
+}

@@ -1,0 +1,18 @@
+{
+  "extends": ["react-app"],
+  "plugins": ["prettier"],
+  "rules": {
+    "prettier/prettier": [
+      "error",
+      {
+        "endOfLine": "auto"
+      }
+    ],
+    "@typescript-eslint/no-unused-vars": "warn",
+    "no-undef": "off",
+    "no-unused-vars": "off",
+    "import/named": "off",
+    "import/no-unresolved": "off",
+    "comma-dangle": "off"
+  }
+}

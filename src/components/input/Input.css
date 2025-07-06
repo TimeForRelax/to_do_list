@@ -1,0 +1,12 @@
+.input {
+  all: unset;
+
+  border: 1px solid;
+  border-width: 1px;
+  border-color: rgb(124, 35, 35); 
+  background-color: black;
+  color: white;
+  height: 40px;
+  width: 350px;
+  border-width: 0;
+}
